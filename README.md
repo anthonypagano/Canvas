@@ -4,7 +4,7 @@
 Canvas is a project to simplify iOS development for both designers and developers.
 It had been difficult for designers to get hands on building the product with the lack of objective-c and Xcode experience, and a hard time for developer to use reasonable amount of time and lines of code just to achieve really simple effects.
 
-With Canvas, creating stunning animations requires zero lines of code, trendy effects like the Parallax headers, Sticky sections, Blurred Backgrounds, will be as simple as few lines of code changes.
+With Canvas, creating stunning animations requires zero lines of code, trendy effects like the Parallax headers, Sticky sections, Blurred Backgrounds, will be as simple as few lines of code changes. TEST
 
 Demo App
 ========
